@@ -1,3 +1,9 @@
 {
-    "editor.fontSize": 20
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "editor.fontSize": 20,
+    "smartsemicolon.autoLineChange": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "workbench.colorTheme": "eppz!",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
 }
